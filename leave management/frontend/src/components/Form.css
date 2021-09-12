@@ -1,0 +1,11 @@
+.regdiv{
+    padding-top: 50px;
+    background: linear-gradient(90deg, rgba(63,159,175,1) 0%, rgba(11,32,23,1) 35%);
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+  .register{
+    padding:100px 550px ;
+  
+  }
